@@ -17,4 +17,13 @@
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/abc_btn_check_to_on_mtrl_000"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="52dp" />
+
 </RelativeLayout>
